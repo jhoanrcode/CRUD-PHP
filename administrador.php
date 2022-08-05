@@ -57,7 +57,7 @@
 
             <aside class="linkflotante ">
               <div class="btn-flotante ">
-                <button data-toggle="modal" data-target="#create-item"><i class="fa fa-plus" aria-hidden="true"></i> Nuevo Producto</button>
+                <button data-toggle="modal" data-target="#create-item"><i class="fa fa-plus" aria-hidden="true"></i> Nuevo Empleado</button>
               </div>
             </aside>
 
